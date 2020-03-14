@@ -1,0 +1,6 @@
+{
+  "apiPort": 8070,
+  "apiReadTimeOut": 5000,
+  "apiWriteTimeOut": 5000,
+  "etcdEndPoints":["127.0.0.1:2379"]
+}
